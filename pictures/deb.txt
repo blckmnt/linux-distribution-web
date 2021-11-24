@@ -1,0 +1,8 @@
+Debian je je jedena z nejstarších a nejoblíbenější stále se vyvyjejících distribucí distribucí. Je vyvíjena velkým množstvím dobrovolníku z celého světa, ne komerčním subjektem jak většina distribucí.
+
+Debian je velmi stabilní a jednotuchý na údržbu (hlavně způsobeno jeho konzervativností), tím pádem preferovaný pro serverové instalace. Instalace čistého Debianu naopak v posledních letech poňekud poklesla.
+ 
+Debian je vydáván tzv. Point relese způsobem, kdy každé určité časové období vychází úplně nový operační systém (další verze). Tento způsob používají třeba i jiné OS jako je třeba Windows nebo MacOS. Zajímavot: Jednotlivé kódové jména vydání Debianu jsou pojmenovány podle jmen postaviček z Toy Story :D
+
+Updatování Debianu a programů probíha přes program APT (Advanced Packaging Tool), vyvíjený Debianem.
+
